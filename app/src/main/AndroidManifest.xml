@@ -21,7 +21,7 @@
         <activity
             android:name=".kalkulatorActivity"
             android:exported="true"
-            android:label="CarlosApp"
+            android:label="carlosApp"
             android:theme="@style/Theme.CarlosApp">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
